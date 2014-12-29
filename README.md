@@ -8,6 +8,8 @@ GENERAL USAGE NOTES
 
 - Program is used by the command line.
 
+- has been tested to convert .txt, and .md files with no problems as of now.
+
 
 HOW TO USE
 --------------------------
@@ -19,7 +21,12 @@ HOW TO USE
 	- 4) Txt file to right to (Will be created if it doesn't exsist already)
 	- 5) either -b or -t (-b to be binary output, -t for text output)
 
+UPDATES
+--------------------------
+- Testing other file formats for compatibility
 
+
+CONTACT INFORMATION
 --------------------------
 If you have any question or comments
 please contact me at:
